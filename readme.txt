@@ -4,8 +4,21 @@ Antywirus może pokazywać że to wirus ponieważ zapisuje kliknięcia klawiszy.
 Antivirus may show that it is a virus because it records keystrokes.
 
 
-Uruchom program przez cmd(terminal/wiersz poleceń).
-Run program from cmd(terminal).
+Uruchom program bezpośrednio lub przez cmd(terminal/wiersz poleceń).
+Run program directly or from cmd(terminal).
+
+Jeśli z cmd to:
+----------------------
+cd (lokalizacja pliku)
+keylogger.exe
+----------------------
+
+If with cmd:
+----------------------
+cd (file location)
+keylogger.exe
+----------------------
+
 
 Kliknij ENTER i zostaw włączone okno cmd.
 Click ENTER and leave cmd running.
