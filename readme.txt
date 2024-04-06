@@ -1,5 +1,8 @@
 Keylogger
 
+Antywirus może pokazywać że to wirus ponieważ zapisuje kliknięcia klawiszy.
+Antivirus may show that it is a virus because it records keystrokes.
+
 
 Uruchom program przez cmd(terminal/wiersz poleceń).
 Run program from cmd(terminal).
@@ -13,6 +16,8 @@ I suggest turning on the second desktop and running the program there to hide th
 Plik z zapisem wciśniętych klawiszy znajduje się w tej samej ścieżce co program np. Jeżeli mamy program w pobranych tam właśnie będzie zapis wciśniętych klawiszy. Sugeruję schować plik exe w jakąś inną lokalizację.
 The file with the record of pressed keys is located in the same path as the program, e.g. if we have a downloaded program, the record of pressed keys will be there. I suggest hiding the exe file in some other location.
 
-
 Tyle
 That's it
+
+Odwiedź moją stronę internetową team-it.com.pl & pankox.com.pl
+Visit my site team-it.com.pl & pankox.com.pl
