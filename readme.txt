@@ -4,21 +4,11 @@ Antywirus może pokazywać że to wirus ponieważ zapisuje kliknięcia klawiszy.
 Antivirus may show that it is a virus because it records keystrokes.
 
 
-Uruchom program bezpośrednio lub przez cmd(terminal/wiersz poleceń).
-Run program directly or from cmd(terminal).
+Uruchom program bezpośrednio.
+Run program directly.
 
-Jeśli z cmd to:
-----------------------
-cd (lokalizacja pliku)
-keylogger.exe
-----------------------
-
-If with cmd:
-----------------------
-cd (file location)
-keylogger.exe
-----------------------
-
+Pobierz plik keylogger.pyw który działa w tle i zainstaluj pythona (kod kompilowany na 3.9.9) lub .rar gdzie znajdziesz plik.exe który nie działa w tle i musi być uruchomiony.
+Download the keylogger.pyw file that runs in the background and install python (code compiled on 3.9.9) or .rar where you will find the .exe file that does not run in the background and must be run.
 
 Kliknij ENTER i zostaw włączone okno cmd.
 Click ENTER and leave cmd running.
