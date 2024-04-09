@@ -7,6 +7,9 @@ Możesz użyć pliku .py(widoczny terminal) lub .pyw(niewidoczny terminal) pami�
 You can use the file .py(terminal visible) or .pyw(terminal invisible) remember to install pynput in cmd when using python to run the script (pip install pynput).
 I recommend using an .exe file that does not require python or pynput, just run it.
 
+old_exe_keylogger.rar to stara wercja a keylogger.exe to nowa lepsza wersja.
+old_exe_keylogger.rar is the old version and keylogger.exe is the new better version.
+
 Plik z zapisem wciśniętych klawiszy znajduje się w tej samej ścieżce co program np. Jeżeli mamy program w pobranych tam właśnie będzie zapis wciśniętych klawiszy.
 Sugeruję schować plik w jakąś inną lokalizację.
 The file with the record of pressed keys is located in the same path as the program, e.g. if we have a downloaded program, the record of pressed keys will be there.
